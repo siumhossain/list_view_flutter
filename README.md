@@ -1,7 +1,7 @@
 # listview
 
 listView for class performance
-![](priview.gif)
+![](preview.gif)
 
 ## Getting Started
 
